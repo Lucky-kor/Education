@@ -18,9 +18,8 @@ public class ArrayCreateByValueListExample1 {
         }
         for(int j=0; j<scores.length; j++){
             System.out.println((j+1)+" 의 점수는 : "+scores[j]);
-        }
-        for(int k=0; k<scores.length; k++){
-            sum += scores[k];
+            sum += scores[j];
+
         }
         avg = (double) sum / scores.length;
         System.out.println("모든 점수의 총합은 "+sum+" 입니다.");
