@@ -1,4 +1,4 @@
-i44mport java.util.Scanner;
+import java.util.Scanner;
 
 public class WhileExample {
     public static void main(String[] args) {
