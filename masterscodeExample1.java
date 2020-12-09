@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class masterscodeExample_hyun1 {
+public class masterscodeExample1 {
     public static void main(String[] args) {
         String str = null;
         int value = 0;
